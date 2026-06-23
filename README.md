@@ -20,9 +20,6 @@ The notebook uses the training folder for training and validation, reserving 320
 ## Project Files
 
 - `cnn-rock-paper-scissors-classification.ipynb`: Cleaned portfolio notebook.
-- `cnn-rock-paper-scissors-classification.html`: Rendered HTML export of the cleaned notebook.
-- `Assignment03.ipynb`: Original coursework notebook.
-- `.gitignore`: Excludes local datasets, checkpoints, logs, and Jupyter checkpoint files.
 
 ## Methods
 
