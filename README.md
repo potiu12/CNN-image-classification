@@ -66,4 +66,3 @@ In this run, the smaller custom CNN outperformed MobileNetV2 on the held-out tes
 ## GitHub Publishing Notes
 
 The dataset, model checkpoints, training logs, and Jupyter checkpoint files are intentionally excluded from version control. This keeps the repository lightweight and reproducible while avoiding large generated files.
-# CNN-image-classification
